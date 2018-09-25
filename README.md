@@ -7,4 +7,4 @@ Extracted from the Chromium source code and edited by @CCreativeCND.
 <br>
 ![Screenshot](assets/screenshot.gif)
 <br>
-<iframe src="https://ccreativecnd.github.io/Chrome-Dino-Runner/" height="20" width="100%" />
+Play the game online at https://ccreativecnd.github.io/Chrome-Dino-Runner/.
