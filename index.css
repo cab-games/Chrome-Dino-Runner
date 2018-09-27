@@ -8,6 +8,12 @@ html, body {
   height: 100%;
 }
 
+.view-on-github {
+  text-align: right;
+  width: 7.5%;
+  height: 7.5%
+}
+
 .icon {
   -webkit-user-select: none;
   user-select: none;
