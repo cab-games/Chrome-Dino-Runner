@@ -42,7 +42,7 @@ html, body {
   overflow: hidden;
   position: absolute;
   top: 35px;
-  width: 44px;
+  width: 88px;
 }
 
 .offline .runner-canvas {
