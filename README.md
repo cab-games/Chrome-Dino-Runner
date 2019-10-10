@@ -7,4 +7,4 @@ Extracted from the Chromium source code and edited by @CCreativeCND.
 <br>
 ![Screenshot](assets/screenshot.gif)
 <br>
-Play the game online at https://ccreativecnd.github.io/Chrome-Dino-Runner/.
+Play the game online at https://github.calum.gq/Chrome-Dino-Runner/.
